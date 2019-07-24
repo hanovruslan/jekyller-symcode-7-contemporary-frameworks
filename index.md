@@ -1,12 +1,12 @@
 ---
 
-layout: yandex2
+layout: hacker
 
 style: |
     /* собственные стили можно писать здесь!! */
 ---
 
-# ![](pictures/symfoniacs-spb.ru-empty.png){:.logo}
+# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.logo}
 
 ## {{ site.presentation.title }}
 {:.title}
@@ -18,8 +18,8 @@ style: |
 -------
 
 <!-- center -->
-- {:.telegram}symfoniacs
-- {:.twitter}@symfoniacsmsk
-- {:.facebook}hanov.ruslan
+
+- {:.telegram} chat symfoniacs_spb
+- {:.telegram} channel symfoniacs_spb_live
 
 <!-- right -->
