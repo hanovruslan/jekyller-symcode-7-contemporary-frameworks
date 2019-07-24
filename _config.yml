@@ -4,13 +4,14 @@ highlighter: rouge
 permalink: /:title.html
 relative_permalinks: false
 
-default_theme: yandex2
+theme: jekyll-theme-hacker
+default_theme: jekyll-theme-hacker
 default_width: 1024
 default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Symfoniacs spb 3
+    title: Symfoniacs Spb
     nda: false
     lang: ru
 
@@ -18,7 +19,7 @@ author:
     name: Ханов Руслан
     position: Разработчик
     company:
-        name: Symfoniacs
-        url:  http://symfoniacs.ru
+        name: Symfoniacs Spb
+        url:  https://hanovruslan.github.io/jekyller-symfoniacs-spb.ru/
 
-progress: false
+progress: true

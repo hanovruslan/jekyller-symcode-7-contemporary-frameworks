@@ -1,6 +1,6 @@
 ---
 
-layout: jekyll-theme-hacker
+layout: default
 
 style: |
     /* собственные стили можно писать здесь!! */
