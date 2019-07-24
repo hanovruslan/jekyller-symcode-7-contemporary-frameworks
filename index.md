@@ -1,6 +1,6 @@
 ---
 
-layout: hacker
+layout: default
 
 style: |
     /* собственные стили можно писать здесь!! */
