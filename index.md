@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
