@@ -67,8 +67,15 @@ style: |
 * Bundles Doctrine Workflow Security Form Service Container
 * PDO Mysql PostgreSQL
 * TDD BDD DDD AOP SOLID API CRUD
-* Varnish Docker RabbitMQ PhpStorm 
+* Varnish Memcache Docker RabbitMQ PhpStorm Github Gitlab Bitbucket
 * Devops Test Vim
+
+## Будущее Санкт-Петербург
+
+* 4+ митапа в год
+* 2+ дополнительных сообщества
+* Мастерклассы, хакатоны и т.п.
+* Ребрендинг
 
 ## Контакты
 {:.contacts}
