@@ -6,10 +6,10 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
+# ![](pictures/symfoniacs-spb.ru-empty.png){:.logo}
+
 ## {{ site.presentation.title }}
 {:.title}
-
-![](pictures/symfoniacs-spb.ru-empty.png){:.logo}
 
 ## Контакты
 {:.contacts}
