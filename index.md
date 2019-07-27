@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
-# ![](pictures/symfoniacs-spb.ru-empty.png){:.logo}
+# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.fullscreen}
 
 ## {{ site.presentation.title }}
 {:.title}
