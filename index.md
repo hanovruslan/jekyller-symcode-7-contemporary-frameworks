@@ -21,7 +21,7 @@ style: |
 * CVS/SVN
 * Apache 1
 * Notepad++
-* Нет Composer-а, PDO, PSD*
+* Нет Composer, PDO, PSR*
 
 ## История symfony
 
