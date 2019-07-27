@@ -21,9 +21,7 @@ style: |
 * CVS/SVN
 * Apache 1
 * Notepad++
-* Нет Composer-а
-* Нет PDO
-* Нет PSR*
+* Нет Composer-а, PDO, PSD*
 
 ## История symfony
 
@@ -43,7 +41,7 @@ style: |
 **Symfony 5**
 
 * Релиз ~ноябрь 2019
-* PHP ~7.4
+* PHP ~7.4/8.0 - то есть почти как Java
 * Best Framework - no framework
 
 ## История сообщества
@@ -52,7 +50,8 @@ style: |
 * 2014 - 4 митапа
 * 2015 - 4 митапа
 * 2016 - 4 митапа
-* 2017 - 7
+* 2017 - 7 митапов
+* Посещаемость от 10 (первые митапы) до 650 (в Ламоде)
 
 ## История Санкт-Петербург
 
@@ -60,6 +59,7 @@ style: |
 * 2017 - 2 митапа
 * 2018 - 2 митапа
 * 2019 - 2 митапа ( вместе с этим 8) )
+* Посещаемость от 20 (3-ый) до 70 (4-ый)
 
 ## Темы
 
@@ -78,7 +78,7 @@ style: |
 
 <!-- center -->
 
-- {:.telegram} chat symfoniacs_spb
-- {:.telegram} channel symfoniacs_spb_live
+- {:.telegram} symfoniacs_spb - чат
+- {:.telegram} symfoniacs_spb_live - канал
 
 <!-- right -->
