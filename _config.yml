@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Symfoniacs Spb
+    title: Meetup Symcode \#7 contemporary frameworks
     nda: false
     lang: ru
 
@@ -19,6 +19,6 @@ author:
     position: Разработчик
     company:
         name: Symfoniacs Spb
-        url:  https://hanovruslan.github.io/jekyller-symfoniacs-spb.ru/
+        url:  https://hanovruslan.github.io/jekyller-symcode-7-contemporary-frameworks
 
 progress: true
