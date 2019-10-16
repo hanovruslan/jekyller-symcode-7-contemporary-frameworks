@@ -13,10 +13,7 @@ style: |
 
 ## Контакты
 {:.contacts}
-
-<!-- разделитель контактов -->
 -------
-
 <!-- center -->
 
 - {:.telegram} symfoniacs_spb - чат

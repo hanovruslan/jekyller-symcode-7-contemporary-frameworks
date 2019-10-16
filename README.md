@@ -1,4 +1,4 @@
-# jekyller-symfoniacs-spb.ru #
+# jekyller-symcode-7-contemporary-frameworks #
 
 [View](https://hanovruslan.github.io/jekyller-symcode-7-contemporary-frameworks)
 
