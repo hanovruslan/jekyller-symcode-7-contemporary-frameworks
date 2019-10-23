@@ -28,3 +28,6 @@ style: |
 - {:.telegram} symfoniacs_spb_live - канал
 
 <!-- right -->
+
+- {:.telegram} hanovruslan
+- {:.mail} hanov.ruslan@gmail.com

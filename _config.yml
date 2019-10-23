@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Meetup Symcode N7 contemporary frameworks
+    title: Meetup Symcode N7 ZF3 vs SF4
     nda: false
     lang: ru
 
@@ -19,6 +19,6 @@ author:
     position: Разработчик
     company:
         name: Symfoniacs Spb
-        url:  https://hanovruslan.github.io/jekyller-symcode-7-contemporary-frameworks
+        url:  https://hanovruslan.github.io/symcode-7-zf3-vs-sf4
 
 progress: true

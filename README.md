@@ -1,6 +1,6 @@
-# jekyller-symcode-7-contemporary-frameworks #
+# symcode-7-zf3-vs-sf4 #
 
-[View](https://hanovruslan.github.io/jekyller-symcode-7-contemporary-frameworks)
+[View](https://hanovruslan.github.io/symcode-7-zf3-vs-sf4)
 
 ## Development ##
 
