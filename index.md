@@ -58,14 +58,18 @@ style: |
 * laminas From Zend to Laminas 2019-04-17- ?
 
 ## Сообщество ##
+-------
+<!-- left -->
 
 - core
 - RFC
 - PSR
+
+<!-- right -->
+
 - фреймворки и библиотеки
 - дистрибутивы
 - SaaS
-https://packagist.org/packages/zfcampus/
 
 ## Конфигурация ##
 
