@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Meetup Symcode N7 ZF3 vs SF4
+    title: ZF3 vs SF4
     nda: false
     lang: ru
 
