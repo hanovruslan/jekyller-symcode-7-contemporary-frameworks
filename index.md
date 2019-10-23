@@ -58,6 +58,7 @@ style: |
 * laminas From Zend to Laminas 2019-04-17- ?
 
 ## Сообщество ##
+{:.contacts}
 -------
 <!-- left -->
 
@@ -93,13 +94,13 @@ style: |
 
 ## Выводы ##
 
-## Контакты
+## Спасибо!
 {:.contacts}
 -------
 <!-- left -->
 
-- {:.telegram} symfoniacs_spb- чат
-- {:.telegram} symfoniacs_spb_live- канал
+- {:.telegram} symfoniacs_spb - чат
+- {:.telegram} symfoniacs_spb_live - канал
 
 <!-- right -->
 
