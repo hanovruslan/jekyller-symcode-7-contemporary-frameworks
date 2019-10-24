@@ -16,7 +16,7 @@ style: |
     .symfoniacs { background-color: white !important; }
 ---
 
-# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.title}
+# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.title.center}
 
 ## {{ site.presentation.title }}
 {:.title}
@@ -28,7 +28,7 @@ style: |
 
 - Зачем исследовать
 - История
-- Что такое фреймворк и микрофреймворк
+- Фреймворк и микрофреймворк
 - Статистика
 - Дитрибутивы
 - Сообщество
@@ -37,7 +37,6 @@ style: |
 
 - Конфигурация
 - Инструментарий
-- Devops
 - Использование в проде
 - Ссылки
 - Выводы
@@ -46,17 +45,7 @@ style: |
 
 ## История ##
 
-## Что такое фреймворк ##
-
-## Микрофреймворки ##
-
-## Devops ##
-
-- Root scope
-- User scope
-- project scope
-- artifacts
-- https://12factor.net/
+## Фреймворк и микрофреймворк ##
 
 ## Статистика ##
 
