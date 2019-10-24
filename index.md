@@ -4,6 +4,7 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
+img.logo { width: 200%; } 
 ---
 
 # ![](pictures/symfoniacs-spb-logo-version-0.svg){:.logo}

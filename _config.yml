@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: ZF3 vs SF4
+    title: Z(end?) Framework
     nda: false
     lang: ru
 
@@ -18,7 +18,7 @@ author:
     name: Ханов Руслан
     position: Разработчик
     company:
-        name: Symfoniacs Spb
-        url:  https://hanovruslan.github.io/symcode-7-zf3-vs-sf4
+        name: Университет ИТМО
+        url: http://www.ifmo.ru
 
 progress: true
