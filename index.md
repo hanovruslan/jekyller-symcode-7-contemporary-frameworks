@@ -99,8 +99,7 @@ style: |
 - {:.next}Поиск лучшего решения, на замену плохого
 - {:.next}Поиск лучшего решения, нужно использовать самое лучшее решение (?)
 
-## История Zend framework 2 vs Symfony 2 ##
-{:.fullscreen}
+## История Zend framework 1 vs Symfony 1 ##
 
 **ZF Первый релиз - Март 2006**{:.next}
 
@@ -110,6 +109,8 @@ style: |
 
 - {:.next}SF 1.5.11 (последний в 1.x) - Март 2018 (+1.5 года)
 
+## История Zend framework 2 vs Symfony 2 ##
+
 **ZF 2.0 - Сентябрь 2012**{:.next}
 
 - {:.next}SF 2.0 - Июль 2011 (-1 год)
@@ -117,43 +118,41 @@ style: |
 **ZF 2.5.3 (последний в 2.x) - Январь 2016**{:.next}
 
 - {:.next}2.8.51 (последний в 2.x) - Апрель 2019 (!) (+3 года)
+
+
+## История Zend framework 3 vs Symfony 3, 4 ##
  
 **ZF 3.0 - Июнь 2016**{:.next}
 - {:.next}SF 3.0 - Ноябрь 2015 (-6 месяцев)
 
+**ZF 3.x (последний в 3.x) - ?**{:.next}
+- {:.next}SF 3.x - Ноябрь 2021
+- {:.next}SF 4.x - Ноябрь 2023
+
+## Скачивания Zend framework vs Symfony ##
+ 
+**ZF ~400 M**{:.next}
+**SF ~3.3 B**{:.next}
+
 ## Дистрибутивы ##
 
-**zendframework/skeleton-application**
+**zendframework/skeleton-application**{:.next}
 
-- Монолитный общего предназначения
+- {:.next}Монолитный общего предназначения
 
-**zendframework/zend-expressive-skeleton**
+**zendframework/zend-expressive-skeleton**{:.next}
 
-- микро?
+- {:.next}микро?
 
-**laminas From Zend to Laminas 2019-04-17**
+**laminas**{:.next}
 
-- ???
+- {:.next}???
 
 ## Конфигурация zendframework/skeleton-application ##
 
-- php-конфиги?
-- apache?
+**php-конфиги?!**{:.next}
 
-## Инструментарий ##
-
-- zend server
-- virtualbox
-- docker
-- vps/vds 
-- clouds
-
-## Использование в проде ##
-
-## Ссылки
-
-* https://github.com/dignityinside/awesome-zf
-* http://talks.php.net/bnl19
+**большой список прямых зависимостей**{:.next}
 
 ## Как делать выводы ##
 
@@ -163,9 +162,24 @@ style: |
 
 ## Выводы (про Symfony4) ##
 
-**Структура - ?**
+**Структура - 8/10**
+
+- front controller
+- application
+- kernel
+- bundle
+
+**Инструментарий - 9/10**
+**Среда - 9/10**
+
+## Выводы (про Zend Framework) ##
+
+**Структура - 6/10?**
 **Инструментарий - ?**
-**Среда - ?**
+**Среда - вроде норм )**
+
+## Пишите свои фреймворки, но и учиться не забывайте!
+{.:blockquote}
 
 ## Спасибо!
 {:.contacts}
