@@ -16,7 +16,7 @@ style: |
     .symfoniacs { background-color: white !important; }
 ---
 
-# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.title}
+# ![](pictures/symfoniacs-spb-logo-version-0.svg)
 
 ## {{ site.presentation.title }}
 {:.title}
