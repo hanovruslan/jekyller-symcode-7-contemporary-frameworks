@@ -128,13 +128,8 @@ style: |
 - {:.next}SF 4.x - Ноябрь 2023
 
 ## Скачивания Zend framework vs Symfony ##
-{:.contacts}
--------
-<!-- left -->
 
 **ZF ~400 M**{:.next}
-
-<!-- right -->
 
 **SF ~3.3 B**{:.next}
 
@@ -200,7 +195,7 @@ style: |
 
 - {:.telegram} hanovruslan
 - {:.mail} hanov.ruslan@gmail.com
-- {:.twitter}@hanovruslan
+- {:.twitter}hanovruslan
 - {:.vk}hanov.ruslan
 - {:.facebook}hanov.ruslan
 
